@@ -1,10 +1,8 @@
 # Falls
 
-Assess the patient, including an assessment of the features contained within the flag section.
+Assess the patient, including an assessment of the features contained within the red flag section.
 
-## Flag
-
-### Red flags
+## Red flags
 
 - Clinically significant injury.
 - Clinically significant pain.
@@ -15,20 +13,6 @@ Assess the patient, including an assessment of the features contained within the
 - New onset of visual disturbance.
 - Unable to mobilise.
 - Unstable medical condition contributing to the fall.
-
-### Orange flags
-
-- More than one fall in the last week.
-- Postural hypotension.
-- Seizure with a history of epilepsy.
-- Recent change in medication.
-- Minor injury requiring non-urgent treatment.
-- New reduction in mobility but able to weight bear.
-
-### Green flags
-
-- Minor soft tissue injury not requiring medical treatment.
-- Able to mobilise in a manner that is normal for the patient.
 
 ## General principles
 
