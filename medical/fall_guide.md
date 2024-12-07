@@ -63,9 +63,9 @@ because the facility personnel are required to manage this. Patients living in a
 example a villa) in the same complex as an aged residential care facility are designated as living
 independently.
 - Ask the patient the following questions:
-- Have you slipped, tripped or fallen in the last year?
-- Do you need to use your hands to get out of a chair?
-- Are there any activities you’ve stopped doing because you are afraid of falling?
+  - Have you slipped, tripped or fallen in the last year?
+  - Do you need to use your hands to get out of a chair?
+  - Are there any activities you’ve stopped doing because you are afraid of falling?
 - Perform Romberg’s test.
 - Perform a timed up and go test.
 - Refer the patient to a falls referral pathway if:
