@@ -1,4 +1,4 @@
-# Falls
+# Saint Johns Clinical Practice Guidelines for Falls
 
 Assess the patient, including an assessment of the features contained within the flag section.
 
@@ -76,7 +76,7 @@ independently.
 - Examine the environment for hazards which may contribute to the risk of falling. Examples include rugs,
 mats, cords and poor footwear. Eliminate these hazards with the patient’s permission if feasible.
 
-# Documentation
+# Clinical Practice Guidelines for Documentation
 
 ## General principles
 
