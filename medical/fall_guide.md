@@ -76,7 +76,7 @@ independently.
 - Examine the environment for hazards which may contribute to the risk of falling. Examples include rugs,
 mats, cords and poor footwear. Eliminate these hazards with the patient’s permission if feasible.
 
-# Clinical Practice Guidelines for Documentation
+# St Johns Clinical Practice Guidelines for Documentation
 
 ## General principles
 
@@ -155,7 +155,7 @@ read the PRF and understand what happened.
 - The discarding of controlled medicines that were drawn up but not administered is documented,
 including documentation that this has been witnessed by a second crew member whenever possible.
 
-# Audit Matrix Notes
+# St Johns Audit Matrix Notes
 
 ## Introduction
 The purpose of Parient Report Form (PRF) audit is not to be punitive or ‘picky’. The purpose of the PRF audit is to provide constructive
